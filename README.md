@@ -16,7 +16,7 @@ Group A - cubemaps (enviroment)
 Group B - hdr & bloom (moon/sun glow) 
 
 W, A, S, D for moving around. Use SHIFT to toggle fast movement on or off.  
-F1 to toggle ImGui on/off. ImGui gives mouse imput + controls.  
+F1 to toggle ImGui on/off. ImGui gives mouse input + controls.  
 M to switch between night and day mode.  
 F to toggle flashlight on/off. Flashlight can be used only in night mode.  
 SPACE to toggle Bloom on/off
