@@ -32,6 +32,6 @@ Grass texture png: https://www.freeiconspng.com/img/44175
 _Cubemaps_  
 
 Clouds: https://opengameart.org/content/cloudy-skyboxes  
-Nightsky: //// (?)
+Nightsky: taken from pinterest, couldn't find the original source 
 
 Demo of the project can be found here: https://www.youtube.com/watch?v=F5k-6ctT110 
