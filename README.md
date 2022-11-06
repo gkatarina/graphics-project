@@ -7,7 +7,7 @@
 6. Šejderi idu u folder shaders. `Vertex shader` ima ekstenziju `.vs`, `fragment shader` ima ekstenziju `.fs`
 7. ALT+SHIFT+F10 -> project_base -> run
 
-# grafika
+# CG
 
 Computer graphics project  
 Day and night mode  
