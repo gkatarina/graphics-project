@@ -9,7 +9,8 @@
 
 # CG
 
-Computer graphics project  
+**Computer graphics project  **
+
 Day and night mode  
 Includes everything from 1 - 9 week from the computer graphics course + face culling (on the models), advanced lighting (applied in shaders whenever any kind of lighting is included) and blending (mode discard used - on the grass texture).  
 Group A - cubemaps (enviroment)  
