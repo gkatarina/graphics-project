@@ -12,15 +12,15 @@
 **Computer graphics project**
 
 Day and night mode  
-Includes everything from 1 - 9 week from the computer graphics course + face culling (on the models), advanced lighting (applied in shaders whenever any kind of lighting is included) and blending (mode discard used - on the grass texture).  
+Includes everything from 1 - 9 week in the computer graphics course + face culling (on the models), advanced lighting and blending (mode discard - used on the grass texture).  
 Group A - cubemaps (enviroment)  
-Group B - hdr & bloom (moon/sun glow) 
+Group B - HDR & Bloom (moon/sun glow) 
 
-W, A, S, D for moving around. Use SHIFT to toggle fast movement on or off.  
-F1 to toggle ImGui on/off. ImGui gives mouse input + controls.  
+W, A, S, D for moving around. Use SHIFT to toggle fast movement on or to turn it off.  
+F1 to toggle ImGui on or off. ImGui gives mouse input + controls.  
 M to switch between night and day mode.  
 F to toggle flashlight on/off. Flashlight can be used only in night mode.  
-SPACE to toggle Bloom on/off
+SPACE to toggle Bloom on/off.
 
 _Models_  
 Dam object: https://www.turbosquid.com/FullPreview/1868860  
